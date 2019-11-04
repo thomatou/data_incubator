@@ -17,7 +17,7 @@ A streamgraph representation of the gender split in Congress, using R’s dedica
 
 ![](Streamgraph.png)
 
-Female Democrats are represented in dark blue, female Republicans in dark red; male democrats in light blue, and male republicans in light red. The yellow line corresponds to independent members.
+<span style="font-size:4em;">Female Democrats are represented in dark blue, female Republicans in dark red; male democrats in light blue, and male republicans in light red. The yellow line corresponds to independent members.</span>
 
 
 
