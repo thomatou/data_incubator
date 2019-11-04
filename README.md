@@ -12,7 +12,7 @@ This approach was cross-validated on a gender-annotated dataset for the current 
 
 Visualizing this data has yielded some promising insights. For instance, female representation has historically been higher in the House of Representatives than in the Senate, but more recent data shows that this difference has largely levelled off, as evidenced in the plot below. While still underrepresented in both chambers of Congress, women occupy a roughly equal proportion of the seats in Senate as they do in the House of Representatives.
 
-![](Stacked_bar_chart.pdf)
+![](Stacked_bar_chart.png)
 
 
 A streamgraph representation of the gender split in Congress, using R’s dedicated package (https://github.com/hrbrmstr/streamgraph), provides an insightful look at the 20,000 members of Congress that have been in office over the past century. While the number of women in Congress has been steadily increasing over the past 30 years, the number of female democrats is growing noticeably faster than the number of female republicans.
