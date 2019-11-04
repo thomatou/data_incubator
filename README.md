@@ -1,5 +1,5 @@
 # Evaluation of gender parity as a function of party affiliation
-## Data Incubator Capstone Project Proposal
+#### Data Incubator Capstone Project Proposal
 
 The goal of my project is to depict the evolution of gender representation in federal electoral politics. Being a traditionally male-dominated field that is nonetheless susceptible to (and demonstrative of) shifts in cultural, political, and economic attitudes and events, I was curious to see whether the feminist movements and iterations of “culture wars” of the 20th century had resulted in an increase in female representation in the U.S. House of Representatives and the U.S. Senate.
 
