@@ -1,5 +1,4 @@
 # Evaluation of gender parity as a function of party affiliation
-#### Data Incubator Capstone Project Proposal
 
 The goal of my project is to depict the evolution of gender representation in federal electoral politics. Being a traditionally male-dominated field that is nonetheless susceptible to (and demonstrative of) shifts in cultural, political, and economic attitudes and events, I was curious to see whether the feminist movements and iterations of “culture wars” of the 20th century had resulted in an increase in female representation in the U.S. House of Representatives and the U.S. Senate.
 
@@ -19,11 +18,4 @@ A streamgraph representation of the gender split in Congress, using R’s dedica
 
 <span style="font-size:4em;">Female Democrats are represented in dark blue, female Republicans in dark red; male Democrats in light blue, and male Republicans in light red. The yellow line corresponds to independent members.</span>
 
-
-
-At the data incubator, I would expand on this work to assess two queries: (1) whether significant increases in female representation precipitate, or are reactionary responses to, discrete historical events; and (2) whether the trend observed with US elected representatives — that parties with more progressive cultural values tend to have higher female representation — generalizes to other democracies. Looking at the historical split in members of the [European Parliament](https://www.europarl.europa.eu/meps/en/home) would be a logical step forward, as would the archives of the [British Parliament](https://www.historyofparliamentonline.org/research). I would also implement a more robust gender verification workflow by linking it with the Wikidata API, in order to improve the accuracy of my datasets.
-
-While the issue of female underrepresentation in Congress has been reported on extensively, this public discussion has yet to be supplemented with clear and impactful visualizations that approach this issue from the point of view of party affiliation. The Data Incubator will allow me to further my skills in web scraping, data mining and data visualization, which will enable me to create striking visuals from high-quality, publicly-accessible data, bringing political aspects of gender representation to the forefront of the discussion.
-
-
-
+While the issue of female underrepresentation in Congress has been reported on extensively, this public discussion has yet to be supplemented with clear and impactful visualizations that approach this issue from the point of view of party affiliation. Such observations should be part of the decision-making process for individuals or organizations that support political parties (notably through donations), and provide a 'quick and dirty' way of establishing whether a party's policy on gender representation aligns with one's convictions.
