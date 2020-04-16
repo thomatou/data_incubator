@@ -22,6 +22,4 @@ Despite this steady increase in female representation, putting things in perspec
 
 ![](/visuals/total_streamgraph.png)
 
-<span style="font-size:4em;">Female Democrats are represented in dark blue, female Republicans in dark red; male Democrats in light blue, and male Republicans in light red. The yellow line corresponds to independent members.</span>
-
-While the issue of female underrepresentation in Congress has been reported on extensively, this public discussion has yet to be supplemented with clear and impactful visualizations that approach this issue from the point of view of party affiliation. Such observations should be part of the decision-making process for individuals or organizations that support political parties (notably through donations), and provide a 'quick and dirty' way of establishing whether a party's policy on gender representation aligns with one's convictions.
+While the issue of female underrepresentation in Congress has been reported on extensively, this public discussion has yet to be supplemented with clear and impactful visualizations that approach this issue from the point of view of party affiliation. Such observations should be part of the decision-making process for individuals or organizations that support political parties (notably through donations), and provide a 'quick and dirty' way of establishing whether a party's stance on gender representation aligns with one's convictions.
