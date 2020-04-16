@@ -18,7 +18,7 @@ A streamgraph representation of the gender split in Congress, using R’s dedica
 
 ![](/visuals/women_by_party_streamgraph.png)
 
-Despite this steady increase in female representation, it remains that gender parity is still a while away.
+Despite this steady increase in female representation, putting things in perspective highlights how gender parity is still a while away.
 
 ![](/visuals/total_streamgraph.png)
 
