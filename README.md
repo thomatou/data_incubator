@@ -16,7 +16,7 @@ Visualizing this data has yielded some promising insights. For instance, female 
 
 A streamgraph representation of the gender split in Congress, using R’s dedicated `streamgraph` [package](https://github.com/hrbrmstr/streamgraph), provides an insightful look at the 20,000 members of Congress that have been in office over the past century. While the number of women in Congress has been steadily increasing over the past 30 years, the number of female democrats is growing noticeably faster than the number of female republicans.
 
-![](/visuals/total_streamgraph.png)
+![](/visuals/women_by_party_streamgraph.png)
 
 Despite this steady increase in female representation, it remains that gender parity is still a while away.
 
