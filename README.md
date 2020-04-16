@@ -20,7 +20,7 @@ A streamgraph representation of the gender split in Congress, using R’s dedica
 
 Despite this steady increase in female representation, it remains that gender parity is still a while away.
 
-![](/visuals/Streamgraph.png)
+![](/visuals/total_streamgraph.png)
 
 <span style="font-size:4em;">Female Democrats are represented in dark blue, female Republicans in dark red; male Democrats in light blue, and male Republicans in light red. The yellow line corresponds to independent members.</span>
 
