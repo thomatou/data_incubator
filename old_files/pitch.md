@@ -7,14 +7,14 @@ The gender prediction algorithm's accuracy was cross-validated with an annotated
 of women in the dataset was within 2% of the actual value.
 
 #### Figure 2 – Female representation in Congress, split by party
-![](politics/visuals/women_by_party_streamgraph.png)
+![](../visuals/women_by_party_streamgraph.png)
 82% of the total number of women in Congress are democrats, versus 55% back in 1989.
 
 
 
 
 #### Figure 3 – Gender representation in Congress, by party
-![](politics/visuals/total_streamgraph.png)
+![](../visuals/total_streamgraph.png)
 The proportion of democrats that are women is of 38%, whereas women only make up 9% of elected republicans.
 
 
